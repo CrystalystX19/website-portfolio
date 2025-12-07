@@ -1,2 +1,3 @@
 # website-portfolio
-Assignment 1 to create a website portfolio for our client.
+**Assignment 1** <br>
+Creating a website portfolio for our client.
